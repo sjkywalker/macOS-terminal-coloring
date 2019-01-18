@@ -1,6 +1,6 @@
 # macOS Terminal Coloring
 
-Makes macOS ls results to have colors
+Makes macOS `ls` results to have colors
 
 ## Usage
 
